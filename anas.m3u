@@ -58,10 +58,6 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="IPTV",SPACETOON
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",MENTARI TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19747038_ico.png?ts=1654801346" group-title="IPTV",TV EDUKASI
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -73,61 +69,46 @@ http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bi
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763218_ico.png?ts=1654874049" group-title="IPTV",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185215_ico.png?ts=1654801697" group-title="IPTV",KOMPAS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498538_ico.png?ts=1654801757" group-title="IPTV",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498511_ico.png?ts=1654801832" group-title="IPTV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20025256_ico.png?ts=1654802008" group-title="IPTV",METRO GLOBAL NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037" group-title="IPTV",RTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19737294_ico.png?ts=1654729244" group-title="IPTV",RANS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1654802106" group-title="IPTV",BERITASATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="IPTV",JAKARTA GLOBE
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19993197_ico.png?ts=1654729324" group-title="IPTV",TANJUPINANG TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20012973_ico.png?ts=1654729384" group-title="IPTV",BATAM TV
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20966151_ico.png?ts=1655386105" group-title="IPTV",DAAI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758812_ico.png?ts=1654802327" group-title="IPTV",TV1 HD
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758847_ico.png?ts=1654802353" group-title="IPTV",TV2 HD
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529469_ico.png?ts=1658212163" group-title="IPTV",TV 3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19760502_ico.png?ts=1654807109" group-title="IPTV",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529491_ico.png?ts=1654807307" group-title="IPTV",NTV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746615_ico.png?ts=1654807358" group-title="IPTV",8TV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529478_ico.png?ts=1654804931" group-title="IPTV",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",RTM TV OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1655402850" group-title="IPTV",Astro Awani HD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529404_ico.png?ts=1654729712" group-title="IPTV",DRAMA SANGAT
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
@@ -264,19 +245,15 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103424_ico.png?ts=1657696895" group-title="IPTV",GALAXY PREMIUM
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20753209_ico.png?ts=1655159537" group-title="IPTV",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="IPTV",AMC
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="IPTV",MOVIE SHAPIER
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762554_ico.png?ts=1654805591" group-title="IPTV",RTM SPORT
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19512202_ico.png?ts=1654805380" group-title="IPTV",FIGHT SPORTS HD
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539288_ico.png?ts=1654872495" group-title="IPTV",REDBULL TV
@@ -318,36 +295,23 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528786_ico.png?ts=1658211461" group-title="IPTV",UNIFI SPORTS 2
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA TV
-http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505865_ico.png?ts=1654806055" group-title="IPTV",RODJA TV
-https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1511921704_b978000.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746211_ico.png?ts=1654806164" group-title="IPTV",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJ7YHzXv0gPvWUgrap2r2-hX7M2eKUpbtuA&usqp=CAU" group-title="IPTV",AJWA TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="IPTV",SAUDI SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w392231581.m3u8?t=Np4mInMxRGzNW1uytmrhHg&e=1657416801
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510775_ico.png?ts=1654806232" group-title="IPTV",QURAN TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="IPTV",MUSICA
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20400813_ico.png?ts=1655398296" group-title="IPTV",POP MUSIK
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="IPTV",DANGDUT TV
-http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20133950_ico.png?ts=1655397863" group-title="IPTV",MALEO
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
+
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="IPTV",MOLA HITS
 http://ventdelnord.tv:8080/mola/directe.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="IPTV",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763624_ico.png?ts=1654806764" group-title="IPTV",LOVE NATURE
@@ -378,13 +342,10 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957549_ico.png?ts=1655327788" group-title="IPTV",B ADVENTURE
 http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1684912150_b5256000_slen.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19538941_ico.png?ts=1655327599" group-title="IPTV",ADVENTURE SPORTS
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529247_ico.png?ts=1654810239" group-title="IPTV",News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19859009_ico.png?ts=1654810195" group-title="IPTV",NHK World Japan
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
